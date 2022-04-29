@@ -57,7 +57,6 @@ void loop()
   duration = pulseIn(echoPin, HIGH);
   
   // Determine distance from duration
-  // Use 0.03433 centi-metres per second as speed of sound
   distance= duration*0.03433/2;
   
   // Set cursor to 0th column and 0th row
