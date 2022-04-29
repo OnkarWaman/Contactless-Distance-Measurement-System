@@ -18,7 +18,7 @@ int contrast=100; /*It is the contrast of display,
    used pin 5 for contrast and pin 6 for backlight brightness*/
    
 int backlight=10; /*It is the brightness of display, 
-                    always keep it 60 or less, 
+                    always keep it in range of 0 to 60, 
                     if increased more than 60,
                     the display will burn out.*/
 
