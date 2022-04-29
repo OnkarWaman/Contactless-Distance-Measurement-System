@@ -20,4 +20,4 @@ Working-
 4) Then that distance is displayed on lcd display
 
 
-This is overview of project 
+This is the overview of project 
