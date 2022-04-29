@@ -17,7 +17,7 @@ Working-
    ultrasonic sensor itself.
 3) Then the time of reflection is measured and
    using that distance is calculated.
-4) The that distance is displayed on lcd display
+4) Then that distance is displayed on lcd display
 
 
 This is overview of project 
