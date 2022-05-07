@@ -10,9 +10,8 @@ long duration;
 float distance;
 
 int contrast=100; /*It is the contrast of display, 
-                    always keep it 60 or less, 
-                    if increased more than 60,
-                    the display will burn out.*/
+                    always keep it 100 for best
+                    contrast ratio*/
                     
 /*out of all pwm pins only pin 5&6 gives 980 Hz frequency hence
    used pin 5 for contrast and pin 6 for backlight brightness*/
