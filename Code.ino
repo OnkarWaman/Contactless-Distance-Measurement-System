@@ -20,7 +20,7 @@ int backlight=10; /*It is the brightness of backlight
                     of display,always keep it in 
                     range of 0 to 60, 
                     if increased more than 60,
-                    the display will burn out.*/
+                    then display will burn out.*/
 
 
 void setup() 
